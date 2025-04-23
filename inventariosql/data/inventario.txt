@@ -1,0 +1,7 @@
+alga|1
+eye|1
+sword|1
+stick|1
+meat|8
+picax|4
+redstone|16
